@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">whichBigger</string>
+    <string name="textview_main_score">Score:0</string>
+    <string name="button_main_left">left</string>
+    <string name="button_main_right">right</string>
+    <string name="button_main_clicker">left</string>
+
+</resources>
